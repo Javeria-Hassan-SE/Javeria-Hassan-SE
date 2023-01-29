@@ -12,8 +12,8 @@
   <a href="https://twitter.com/_JaveriaHassan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href=https://medium.com/@javeria.hassan2601" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+   <a href="https://medium.com/@javeria.hassan2601" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Javeria-Hassan-SE&style=flat-square&color=blue" alt=""/>
@@ -30,16 +30,16 @@
 
 - 🔭 I’m currently working on FLutter Applications Development...
 - 🌱 I’m currently learning Google UX Design, Web 3.0 and Metaverse ...
-- :page_with_curl: I regularly write articles on [![Medium Badge](https://img.shields.io/badge/-kakbar-blacke?style=flat&logo=Medium&logoColor=white)](https://medium.com/@javeria.hassan2601)
+- :page_with_curl: I regularly write articles on [![Medium Badge](https://img.shields.io/badge/-Medium-blacke?style=flat&logo=Medium&logoColor=white)](https://medium.com/@javeria.hassan2601)
    - 💬 Ask me about <strong> Flutter </strong> ,<strong> ASP.Net </strong>, <strong> TypeScript </strong>, <strong> Metaverse </strong>
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javeria-hassan/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javeria-hassan/)
 - ⚡ In my free time, I love to read and learn new skills.
 
    <hr>
    
 ### :hammer_and_wrench: Languages and Tools :
    <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="" width="100px" height="100px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="">
    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="">
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="">
