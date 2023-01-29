@@ -19,6 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=Javeria-Hassan-SE&style=flat-square&color=blue" alt=""/>
                                                                                                     
  ### Hi there 👋
+ ### Javeria Hassan 👩‍💻
 
 "I'm a Full stack developer with 2+ years of experience in building web and mobile applications. Proficient in various programming languages such as C#, Java, Python, Dart, JavaScript, Node.JS HTML, CSS, BootStrap, jQuery and currently learning TypeScript, Next.js, REACT, Chakra UI, bloockcchain and metaverse development. Strong background in UI/UX design and a passion for creating visually appealing and user-friendly interfaces. Experience working with clients as a freelancer and also working as a full-time job in an organization. Always eager to learn new technologies and stay up-to-date with industry trends. Check out my projects to see my expertise in action!"
                                                                                                     
@@ -30,7 +31,7 @@
 
 - 🔭 I’m currently working on FLutter Applications Development...
 - 🌱 I’m currently learning Google UX Design, Web 3.0 and Metaverse ...
-- :page_with_curl: I regularly write articles on [![Medium Badge](https://img.shields.io/badge/-Medium-blacke?style=flat&logo=Medium&logoColor=white)](https://medium.com/@javeria.hassan2601)
+- :page_with_curl: I regularly write articles on [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@javeria.hassan2601)
    - 💬 Ask me about <strong> Flutter </strong> ,<strong> ASP.Net </strong>, <strong> TypeScript </strong>, <strong> Metaverse </strong>
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javeria-hassan/)
 - ⚡ In my free time, I love to read and learn new skills.
@@ -38,7 +39,7 @@
    <hr>
    
 ### :hammer_and_wrench: Languages and Tools :
-   <div>
+   <div  align="center" padding="3px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="" width="40px" height="40px" >
    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="" width="40px" height="40px">
@@ -75,9 +76,9 @@
    ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Javeria-Hassan-SE&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 <hr>
-    ### :fire: Most Used Languages :
-   ![Javeria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javeria-Hassan-SE)
-   <hr>
+
+   ### :fire: Most Langauges Used:                                                                                                                              
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javeria-Hassan-SE)](https://github.com/anuraghazra/github-readme-stats)
    
   
 
