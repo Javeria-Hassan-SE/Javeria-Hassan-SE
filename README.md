@@ -39,7 +39,7 @@
    
 ### :hammer_and_wrench: Languages and Tools :
    <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="" width="20px" height="20px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="" width="80px" height="80px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="" width="80px" height="80px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="" width="80px" height="80px">
