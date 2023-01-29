@@ -39,36 +39,36 @@
    
 ### :hammer_and_wrench: Languages and Tools :
    <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="" width="100px" height="100px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="" width="80px" height="80px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="" width="80px" height="80px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="" width="80px" height="80px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="" width="80px" height="80px">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="" width="80px" height="80px">
    </div>
    <hr>
    
