@@ -77,7 +77,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Javeria-Hassan-SE&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 <hr>
 
-   ### :fire: Most Langauges Used:                                                                                                                              
+   ### :fire: Most Langauges Used:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javeria-Hassan-SE&hide=javascript,css,scss,html&theme=tokyonight)
+
+### :fire: My Contributions:
+                                                                                                                                
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javeria-Hassan-SE)](https://github.com/anuraghazra/github-readme-stats)
    
   
