@@ -17,8 +17,11 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Javeria-Hassan-SE&style=flat-square&color=blue" alt=""/>
-                                                                                                    <h1>
+                                                                                                    
  ### Hi there 👋
+
+"Full stack developer with 2+ years of experience in building web and mobile applications. Proficient in various programming languages such as C#, Java, Python, Dart, JavaScript, Node.JS HTML, CSS, BootStrap, jQuery and currently learning TypeScript, Next.js, REACT, Chakra UI, bloockcchain and metaverse development. Strong background in UI/UX design and a passion for creating visually appealing and user-friendly interfaces. Experience working with clients as a freelancer and also working as a full-time job in an organization. Always eager to learn new technologies and stay up-to-date with industry trends. Check out my projects to see my expertise in action!"
+                                                                                                    
 </div>
 
 
