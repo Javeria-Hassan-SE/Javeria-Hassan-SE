@@ -32,7 +32,7 @@
 - 🔭 I’m currently working on Flutter Applications Development...
 - 🌱 I’m currently learning Google UX Design, Web 3.0 and Metaverse ...
 - :page_with_curl: I regularly write articles on [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@javeria.hassan2601)
-- 💬 Ask me about <strong> Flutter </strong> ,<strong> ASP.Net </strong>, <strong> TypeScript </strong>, <strong> Metaverse </strong>
+- 💬 Ask me about <strong> Flutter </strong> ,<strong> Python </strong>, <strong> Machine Learning </strong>,and <strong> Natural Language Processing </strong>
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javeria-hassan/)
 - ⚡ In my free time, I love to read and learn new skills.
 
