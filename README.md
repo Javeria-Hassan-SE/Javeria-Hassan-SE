@@ -21,7 +21,26 @@
  ### Hi there 👋
   ### <h2> Javeria Hassan </h2>👩‍💻
 
-"I'm a Full stack developer with 2+ years of experience in building web and mobile applications. Proficient in various programming languages such as C#, Java, Python, Dart, JavaScript, Node.JS HTML, CSS, BootStrap, jQuery and currently learning TypeScript, Next.js, REACT, Chakra UI, bloockcchain and metaverse development. Strong background in UI/UX design and a passion for creating visually appealing and user-friendly interfaces. Experience working with clients as a freelancer and also working as a full-time job in an organization. Always eager to learn new technologies and stay up-to-date with industry trends. Check out my projects to see my expertise in action!"
+"🚀 I am a highly motivated and dedicated data scientist currently pursuing an MS in Data Science, blending a strong computer science background with a deep passion for Machine Learning, Artificial Intelligence, and Data Science. I have hands-on experience in various projects, such as House Price Prediction, Breast Cancer Detection, Fake News Detection, Face Detection with Eigen Spaces, and Weed Detection using multispectral images with TensorFlow.
+
+My expertise encompasses a broad spectrum of data science and machine learning tools, including:
+
+Exploratory Data Analysis (EDA): Proficient in extracting insights from datasets to inform decision-making.
+Predictive Modeling: Experienced in developing predictive models for complex problem-solving.
+Data Visualization: Skilled in creating visually compelling representations using tools like Matplotlib, Tableau, Excel, and web technologies.
+Programming Languages: Proficient in Python, SQL, and familiar with Numpy, Pandas, Scikit-Learn, and TensorFlow.
+Natural Language Processing (NLP): Actively pursuing a specialization in NLP from Deep Learning.ai, with exposure to OpenAI API and Hugging Face technologies.
+Chatbot Development: Capable of creating intelligent chatbots using Google DialogFlow, Alexa, and Hugging Face.
+Web Development: Experienced in web development using PHP, Bootstrap, and other front-end technologies for building interactive and responsive websites.
+UI/UX Design: Proficient in creating intuitive user interfaces using Figma, ensuring a seamless user experience.
+Web Scraping: Skilled in extracting data from websites using tools like Beautiful Soup.
+Problem Solving: Adept at approaching complex problems with a logical and analytical mindset.
+Collaboration: Skilled in version control using Git/GitHub, fostering effective collaboration in team environments.
+Model Evaluation: Capable of assessing model performance and making informed improvements.
+Qt Designer: Experienced in designing graphical interfaces for applications.
+In addition to my data science and machine learning skills, I bring proficiency in web development, utilizing PHP and Bootstrap to create dynamic and visually appealing websites. My goal is to leverage this versatile skill set to derive data-driven insights, solve intricate problems, and make a meaningful impact across various domains.
+
+For further inquiries or assistance, feel free to contact me at javeria.hassan77@gmail.com. I look forward to hearing from you."
                                                                                                     
 </div>
 
@@ -29,10 +48,10 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on Flutter Applications Development...
-- 🌱 I’m currently learning Google UX Design, Web 3.0 and Metaverse ...
+- 🔭 I’m currently working on Data Science Projects...
+- 🌱 I’m currently learning Google Advanced Data Analytics ...
 - :page_with_curl: I regularly write articles on [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@javeria.hassan2601)
-- 💬 Ask me about <strong> Flutter </strong> ,<strong> Python </strong>, <strong> Machine Learning </strong>,and <strong> Natural Language Processing </strong>
+- 💬 Ask me about <strong> Data Science </strong> ,<strong> Python </strong>, <strong> Machine Learning </strong>,and <strong> Natural Language Processing </strong>
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javeria-hassan/)
 - ⚡ In my free time, I love to read and learn new skills.
 
