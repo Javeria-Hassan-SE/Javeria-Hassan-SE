@@ -21,26 +21,13 @@
  ### Hi there 👋
   ### <h2> Javeria Hassan </h2>👩‍💻
 
-"🚀 I am a highly motivated and dedicated data scientist currently pursuing an MS in Data Science, blending a strong computer science background with a deep passion for Machine Learning, Artificial Intelligence, and Data Science. I have hands-on experience in various projects, such as House Price Prediction, Breast Cancer Detection, Fake News Detection, Face Detection with Eigen Spaces, and Weed Detection using multispectral images with TensorFlow.
+"🚀 I am a highly motivated Full-Stack AI Engineer with a core focus on Generative AI, blending advanced AI techniques with full-stack development to deliver cutting-edge, data-driven solutions. Currently pursuing my MS in Data Science, I specialize in building Generative AI solutions for businesses, helping drive innovation and solve real-world challenges through AI.
 
-My expertise encompasses a broad spectrum of data science and machine learning tools, including:
+With expertise in Python, SQL, TensorFlow, keras, openCV, and the MERN stack, I thrive at the intersection of AI and web development, seamlessly integrating machine learning models into robust, user-friendly applications. My experience spans in building Deep learning, Generative AI based applications, Exploratory Data Analysis (EDA), predictive modeling, Natural Language Processing (NLP), web scraping, chatbot development (DialogFlow & Alexa), and Full Stack Development.
 
-Exploratory Data Analysis (EDA): Proficient in extracting insights from datasets to inform decision-making.
-Predictive Modeling: Experienced in developing predictive models for complex problem-solving.
-Data Visualization: Skilled in creating visually compelling representations using tools like Matplotlib, Tableau, Excel, and web technologies.
-Programming Languages: Proficient in Python, SQL, and familiar with Numpy, Pandas, Scikit-Learn, and TensorFlow.
-Natural Language Processing (NLP): Actively pursuing a specialization in NLP from Deep Learning.ai, with exposure to OpenAI API and Hugging Face technologies.
-Chatbot Development: Capable of creating intelligent chatbots using Google DialogFlow, Alexa, and Hugging Face.
-Web Development: Experienced in web development using PHP, Bootstrap, and other front-end technologies for building interactive and responsive websites.
-UI/UX Design: Proficient in creating intuitive user interfaces using Figma, ensuring a seamless user experience.
-Web Scraping: Skilled in extracting data from websites using tools like Beautiful Soup.
-Problem Solving: Adept at approaching complex problems with a logical and analytical mindset.
-Collaboration: Skilled in version control using Git/GitHub, fostering effective collaboration in team environments.
-Model Evaluation: Capable of assessing model performance and making informed improvements.
-Qt Designer: Experienced in designing graphical interfaces for applications.
-In addition to my data science and machine learning skills, I bring proficiency in web development, utilizing PHP and Bootstrap to create dynamic and visually appealing websites. My goal is to leverage this versatile skill set to derive data-driven insights, solve intricate problems, and make a meaningful impact across various domains.
+As a passionate problem-solver and collaborator, I am always looking to create impactful AI-driven solutions that accelerate business growth and optimize processes.
 
-For further inquiries or assistance, feel free to contact me at javeria.hassan77@gmail.com. I look forward to hearing from you."
+Feel free to reach out at javeria.hassan77@gmail.com. I look forward to connecting!"
                                                                                                     
 </div>
 
