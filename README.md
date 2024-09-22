@@ -35,10 +35,10 @@ Feel free to reach out at javeria.hassan77@gmail.com. I look forward to connecti
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on Data Science Projects...
-- 🌱 I’m currently learning Google Advanced Data Analytics ...
+- 🔭 I’m currently developing GenAI Solutions
+- 🌱 I’m currently learning LLM, Hugging face, pinecone
 - :page_with_curl: I regularly write articles on [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@javeria.hassan2601)
-- 💬 Ask me about <strong> Data Science </strong> ,<strong> Python </strong>, <strong> Machine Learning </strong>,and <strong> Natural Language Processing </strong>
+- 💬 Ask me about  <strong> Data Generative AI </strong>, <strong> Data Science </strong> ,<strong> Python </strong>, <strong> Machine Learning </strong>,and <strong> Natural Language Processing </strong>
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javeria-hassan/)
 - ⚡ In my free time, I love to read and learn new skills.
 
