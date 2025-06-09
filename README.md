@@ -25,7 +25,12 @@
 
 With 2+ years of experience in AI product development, I’ve designed and built voice bots, image generators, and retrieval-augmented generation (RAG) pipelines for real-world applications. My recent work involves creating AI-powered marketing poster generators and integrating agentic workflows using LangChain, LlamaIndex, and Vapi.
 
-💡 Key Interests:
+</div>
+
+   <hr>
+
+   
+<h3> 💡 Key Interests:</h3>
 
 - Autonomous Agents with LangChain & CrewAI
 
@@ -35,8 +40,13 @@ With 2+ years of experience in AI product development, I’ve designed and built
 
 - Building real-world AI SaaS products
 
-🔧 Tech Stack:
+ <hr>
+
+ 
+<h3>🔧 Tech Stack:</h3>
 Python, PyTorch, TensorFlow, LangChain, LlamaIndex, OpenAI, Hugging Face, Vapi, RAG, FastAPI, CNN, Yolo, Streamlit, Docker, Git, MongoDB, MySQL, Firebase, React, Typescript, REST APIs, Figma
+
+<hr>
 
 🌍 Actively looking for remote AI Engineer roles with product teams or startups building with LLMs, GenAI, and agent frameworks – open to full-time and part-time opportunities globally and within Pakistan.
 
@@ -45,9 +55,7 @@ Feel free to reach out at javeria.hassan77@gmail.com. I look forward to connect!
 Request Services on LinkedIn. You can send your requirement document.
 You can also approach me on Upwork: https://shorturl.at/MPXuC"
                                                                                                     
-</div>
-
-   <hr>
+ <hr>
 
 ### :woman_technologist: About Me :
 
