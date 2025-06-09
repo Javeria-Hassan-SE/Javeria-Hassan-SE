@@ -23,7 +23,7 @@
 
 "🚀 I'm an AI Engineer with a strong foundation in Generative AI, Agentic AI, and Backend Development – building intelligent, autonomous systems using LLMs, LangChain, and Stable Diffusion.
 
-With 2+ years of experience in AI product development, I’ve designed and built voice bots, image generators, and retrieval-augmented generation (RAG) pipelines for real-world applications. My recent work involves creating AI-powered marketing poster generators and integrating agentic workflows using LangChain, LlamaIndex, and Vapi.
+With 3+ years of experience in AI product development, I’ve designed and built voice bots, image generators, and retrieval-augmented generation (RAG) pipelines for real-world applications. My recent work involves creating AI-powered marketing poster generators and integrating agentic workflows using LangChain, LlamaIndex, and Vapi.
 
 </div>
 
