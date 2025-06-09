@@ -21,13 +21,29 @@
  ### Hi there 👋
   ### <h2> Javeria Hassan </h2>👩‍💻
 
-"🚀 I am a highly motivated Full-Stack AI Engineer with a core focus on Generative AI, blending advanced AI techniques with full-stack development to deliver cutting-edge, data-driven solutions. Currently pursuing my MS in Data Science, I specialize in building Generative AI solutions for businesses, helping drive innovation and solve real-world challenges through AI.
+"🚀 I'm an AI Engineer with a strong foundation in Generative AI, Agentic AI, and Backend Development – building intelligent, autonomous systems using LLMs, LangChain, and Stable Diffusion.
 
-With expertise in Python, SQL, TensorFlow, keras, openCV, and the MERN stack, I thrive at the intersection of AI and web development, seamlessly integrating machine learning models into robust, user-friendly applications. My experience spans in building Deep learning, Generative AI based applications, Exploratory Data Analysis (EDA), predictive modeling, Natural Language Processing (NLP), web scraping, chatbot development (DialogFlow & Alexa), and Full Stack Development.
+With 2+ years of experience in AI product development, I’ve designed and built voice bots, image generators, and retrieval-augmented generation (RAG) pipelines for real-world applications. My recent work involves creating AI-powered marketing poster generators and integrating agentic workflows using LangChain, LlamaIndex, and Vapi.
 
-As a passionate problem-solver and collaborator, I am always looking to create impactful AI-driven solutions that accelerate business growth and optimize processes.
+💡 Key Interests:
 
-Feel free to reach out at javeria.hassan77@gmail.com. I look forward to connecting!"
+- Autonomous Agents with LangChain & CrewAI
+
+- Multi-modal AI (Image + Text + Voice)
+
+- Generative AI (GPT-4, Stable Diffusion, Prompt Engineering)
+
+- Building real-world AI SaaS products
+
+🔧 Tech Stack:
+Python, PyTorch, TensorFlow, LangChain, LlamaIndex, OpenAI, Hugging Face, Vapi, RAG, FastAPI, CNN, Yolo, Streamlit, Docker, Git, MongoDB, MySQL, Firebase, React, Typescript, REST APIs, Figma
+
+🌍 Actively looking for remote AI Engineer roles with product teams or startups building with LLMs, GenAI, and agent frameworks – open to full-time and part-time opportunities globally and within Pakistan.
+
+🧠 Let’s connect if you’re building the future of AI — or need help doing it.
+Feel free to reach out at javeria.hassan77@gmail.com. I look forward to connect!
+Request Services on LinkedIn. You can send your requirement document.
+You can also approach me on Upwork: https://shorturl.at/MPXuC"
                                                                                                     
 </div>
 
@@ -36,7 +52,7 @@ Feel free to reach out at javeria.hassan77@gmail.com. I look forward to connecti
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently developing GenAI Solutions
-- 🌱 I’m currently learning LLM, Hugging face, pinecone
+- 🌱 I’m currently learning to build autonomous agents
 - :page_with_curl: I regularly write articles on [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@javeria.hassan2601)
 - 💬 Ask me about  <strong> Data Generative AI </strong>, <strong> Data Science </strong> ,<strong> Python </strong>, <strong> Machine Learning </strong>,and <strong> Natural Language Processing </strong>
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javeria-hassan/)
