@@ -44,7 +44,7 @@ With 3+ years of experience in AI product development, I’ve designed and built
 
  
 <h3>🔧 Tech Stack:</h3>
-Python, PyTorch, TensorFlow, LangChain, LlamaIndex, OpenAI, Hugging Face, Vapi, RAG, FastAPI, CNN, Yolo, Streamlit, Docker, Git, MongoDB, MySQL, Firebase, React, Typescript, REST APIs, Figma
+Python, PyTorch, TensorFlow, LangChain, LlamaIndex, OpenAI, Hugging Face, Vapi, CNN,, Streamlit, Docker, Git, MongoDB, MySQL, Firebase, React, Typescript, REST APIs, Figma, Python, LangChain, LangGraph, FastAPI, YOLO, n8n, CrewAI, PyTorch, TensorFlow, MongoDB, Pinecone, RAG
 
 <hr>
 
@@ -53,7 +53,7 @@ Python, PyTorch, TensorFlow, LangChain, LlamaIndex, OpenAI, Hugging Face, Vapi, 
 🧠 Let’s connect if you’re building the future of AI — or need help doing it.
 Feel free to reach out at javeria.hassan77@gmail.com. I look forward to connect!
 Request Services on LinkedIn. You can send your requirement document.
-You can also approach me on Upwork: https://shorturl.at/MPXuC"
+You can also approach me on Upwork: https://shorturl.at/MPXuC
                                                                                                     
  <hr>
 
@@ -70,10 +70,6 @@ You can also approach me on Upwork: https://shorturl.at/MPXuC"
    
 ### :hammer_and_wrench: Languages and Tools :
    <div  align="center" padding="3px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="" width="40px" height="40px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="" width="40px" height="40px" >
-   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="" width="40px" height="40px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="" width="40px" height="40px">
@@ -81,8 +77,6 @@ You can also approach me on Upwork: https://shorturl.at/MPXuC"
    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="" width="40px" height="40px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=""width="40px" height="40px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40px" height="40px">
@@ -93,11 +87,7 @@ You can also approach me on Upwork: https://shorturl.at/MPXuC"
    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="" width="40px" height="40px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="" width="40px" height="40px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="" width="40px" height="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="" width="40px" height="40px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="" width="40px" height="40px">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="" width="40px" height="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="" width="40px" height="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="" width="40px" height="40px">
    </div>
