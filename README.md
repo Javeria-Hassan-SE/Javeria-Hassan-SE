@@ -1,103 +1,151 @@
-# Hi, I'm Javeria Hassan 👋
+<!--
+  BANNER SETUP:
+  Upload your banner image to this repository as:
+  assets/profile-banner.png
+  Then the image below will appear at the top of your profile.
+-->
 
-### AI Engineer · AI Educator · Human-Centered AI Enthusiast
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Javeria Hassan | AI Engineer and AI Educator" width="100%" />
+</p>
 
-**Building intelligent systems. Exploring how humans learn, think, and adapt.**
+<h1 align="center">Hi, I'm Javeria Hassan 👋</h1>
+
+<h3 align="center">AI Engineer · AI Educator · Human-Centered AI Enthusiast</h3>
+
+<p align="center">
+  Building intelligent systems, exploring how humans learn, think, and adapt.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/javeria-hassan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/codewithjaveria/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@codewithjaveria">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:javeria.hassan77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://javeria-hassan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-7B61A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+## About Me
 
 I'm an AI Engineer with 4+ years of experience building AI-powered applications, intelligent automation systems, and full-stack software solutions.
 
-My work spans LLM-powered applications, Retrieval-Augmented Generation (RAG), AI agents, computer vision, OCR, recommendation systems, backend engineering, and production deployment.
+I enjoy working across the AI development lifecycle, from understanding a problem and designing the architecture to building, integrating, and deploying practical solutions.
 
-Beyond engineering, I'm an educator who enjoys making complex technical concepts accessible, designing practical learning experiences, and helping others develop their skills.
+My work and interests include:
 
-I'm particularly interested in **Human-Centered AI and Adaptive Systems** — exploring how AI can create more personalized, context-aware, and meaningful experiences for people.
+- Building LLM-powered applications, RAG systems, and AI agents
+- Developing computer vision, OCR, and recommendation systems
+- Designing backend services, APIs, and intelligent automation workflows
+- Exploring human-centered and adaptive AI
+- Teaching AI, data science, and software development
 
-I'm naturally curious, enjoy connecting ideas across disciplines, and believe some of the most interesting engineering questions begin with understanding people.
+Beyond engineering, I'm curious about how people learn, think, make decisions, and build habits. I'm especially interested in the intersection of artificial intelligence, learning science, cognitive science, and human-computer interaction.
 
----
+I believe technology should do more than become increasingly intelligent. It should become more useful to the people it serves.
 
-## 🧠 What I'm Interested In
+## Areas of Interest
 
-- **Applied AI & Intelligent Systems** — building practical AI applications that solve real-world problems.
-- **LLMs & Agentic AI** — LLM applications, RAG pipelines, tool use, multi-agent systems, and intelligent workflows.
-- **Human-Centered & Adaptive AI** — personalization, human-AI interaction, and context-aware systems.
-- **Learning Science & Education** — exploring how people learn and how technology can support better learning experiences.
-- **Cognitive Science & Human Behavior** — developing an interdisciplinary understanding of human cognition, behavior, and decision-making.
-- **Research & Experimentation** — exploring ideas, studying new technologies, and turning questions into practical experiments.
+- Applied AI and Generative AI
+- LLM Applications and Agentic Systems
+- Human-Centered and Adaptive AI
+- Personalized Learning and Educational Technology
+- Cognitive Science and Human Behavior
+- Human-AI Interaction
+- Research, Experimentation, and Product Development
 
-## 🛠️ Technical Toolkit
+## Tech Stack
 
-### Artificial Intelligence & Machine Learning
-Python · PyTorch · TensorFlow · Keras · Scikit-learn · Hugging Face · OpenCV · YOLO · OCR · Computer Vision · NLP · Recommendation Systems
+### AI, Machine Learning and Data Science
 
-### LLMs & Agentic AI
-Large Language Models · Generative AI · RAG · LangChain · LangGraph · CrewAI · OpenAI API · Multi-Agent Systems · Prompt Engineering · Vector Databases · Conversational AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" alt="Python, PyTorch, TensorFlow, OpenCV and scikit-learn" />
+</p>
 
-### Backend & Full-Stack Development
-FastAPI · Flask · Node.js · Express.js · React · Next.js · TypeScript · JavaScript · REST APIs · MongoDB · PostgreSQL
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" alt="YOLO" />
+  <img src="https://img.shields.io/badge/OCR-6A5ACD?style=for-the-badge" alt="OCR" />
+</p>
 
-### AI Automation & Voice AI
-n8n · Workflow Automation · API Integration · Vapi · ElevenLabs · Webhooks · Text-to-Speech · Speech-to-Text
+### LLMs and Agentic AI
 
-### Deployment & Engineering
-Docker · Cloud Deployment · MLOps · MLflow · Git · GitHub · Model Training Pipelines · System Architecture
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-6B4EFF?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="RAG" />
+</p>
 
-### AI-Assisted Development
-Claude Code · GitHub Copilot · OpenAI Codex · Google Antigravity · Lovable · Replit
+### Full-Stack Development
 
-*My toolkit reflects technologies I've worked with across different projects; not every tool is used in every application.*
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,fastapi,flask" alt="JavaScript, TypeScript, React, Node.js, Express, FastAPI and Flask" />
+</p>
 
----
+### Databases and Infrastructure
 
-## 👩‍🏫 Beyond Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,aws,gcp,git,github" alt="MongoDB, PostgreSQL, Docker, AWS, Google Cloud, Git and GitHub" />
+</p>
 
-I also enjoy teaching and sharing technical knowledge.
+### Automation and AI-Assisted Development
 
-I've taught AI, Data Science, Machine Learning, Deep Learning, and Web Development, developed educational materials and curricula, and guided learners through practical projects.
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+</p>
 
-A few things I'm proud of:
-- Teaching and mentoring 100+ learners in AI and Data Science.
-- Contributing to technical education and curriculum development.
-- Supporting learners through hands-on projects and practical problem-solving.
-- Exploring how AI and technology can make education more accessible and adaptive.
+## Teaching and Knowledge Sharing
 
----
+I enjoy making technical concepts easier to understand and helping people learn by building things.
 
-## 🔭 What I'm Exploring Now
+My teaching experience includes AI, machine learning, data science, Python, and full-stack web development. I've also contributed to curriculum development, practical learning materials, and project-based instruction.
 
-- Building more reliable and useful LLM-powered applications.
-- Exploring human-centered and adaptive AI systems.
-- Learning more about cognitive science, learning science, and human-AI interaction.
+I see teaching as another way to explore ideas, strengthen my own understanding, and make technology more accessible.
+
+## Beyond Engineering
+
+I'm naturally curious and tend to explore ideas across different fields. Some things I enjoy outside my day-to-day engineering work:
+
+- 📚 A keen book reader, always looking for a new idea or perspective.
+- 🧠 Exploring cognitive science, psychology, and human behavior.
+- ✍️ Writing down ideas, observations, and things I'm learning.
+- 🔬 Following interesting research and experimenting with new concepts.
+- 🌱 Learning across disciplines and connecting ideas in unexpected ways.
+
+## Currently Exploring
+
+- Building more reliable and useful LLM-powered systems.
+- Exploring adaptive AI and personalized learning experiences.
+- Learning more about cognitive science and human-AI interaction.
 - Experimenting with AI-assisted software engineering workflows.
-- Connecting engineering practice with research and interdisciplinary thinking.
 
-I'm especially interested in projects at the intersection of **AI engineering, personalization, learning, and human behavior.**
+## Let's Connect
 
----
+I'm always happy to connect with people who enjoy building, learning, researching, and exploring ideas at the intersection of technology and human experience.
 
-## 🌐 Find Me Around the Internet
+<p align="center">
+  <a href="https://www.linkedin.com/in/javeria-hassan/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/codewithjaveria/">Instagram</a> ·
+  <a href="https://www.youtube.com/@codewithjaveria">YouTube</a> ·
+  <a href="https://javeria-hassan.vercel.app">Portfolio</a> ·
+  <a href="mailto:javeria.hassan77@gmail.com">Email</a>
+</p>
 
-- **Portfolio:** [javeria-hassan.vercel.app](https://javeria-hassan.vercel.app/)
-- **LinkedIn:** [Javeria Hassan](https://www.linkedin.com/in/javeria-hassan/)
-- **YouTube:** [codewithjaveria](https://www.youtube.com/@codewithjaveria)
-- **Medium:** [My Articles](https://medium.com/@javeria.hassan2601)
-- **Instagram / X:** [@codewithjaveria]([https://twitter.com/_JaveriaHassan](https://www.instagram.com/codewithjaveria/))
-- **Email:** [javeria.hassan77@gmail.com](mailto:javeria.hassan77@gmail.com)
-
-I'm always happy to connect with engineers, researchers, educators, and curious minds working on meaningful technology.
-
-**Let's exchange ideas, learn something new, and build things that matter.** 💜
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Javeria-Hassan-SE&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javeria-Hassan-SE&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javeria-Hassan-SE&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-*Curious mind. Engineering mindset. Always learning.* ✨
+<p align="center">
+  <i>Curious mind. Engineering mindset. Always learning.</i>
+</p>
