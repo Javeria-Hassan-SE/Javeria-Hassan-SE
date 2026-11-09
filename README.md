@@ -9,7 +9,7 @@
   <img src="assets/profile-banner-1.png" alt="Javeria Hassan | AI Engineer and AI Educator" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Javeria Hassan 👋</h1>
+<h1 align="center">Salam, I'm Javeria Hassan 👋</h1>
 
 <h3 align="center">AI Engineer · AI Educator · Human-Centered AI Enthusiast</h3>
 
