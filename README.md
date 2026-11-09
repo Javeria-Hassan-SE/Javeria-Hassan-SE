@@ -6,7 +6,7 @@
 -->
 
  <p align="center">
-  <img src="assets/profile-banner.png" alt="Javeria Hassan | AI Engineer and AI Educator" width="100%" />
+  <img src="assets/profile-banner-1.png" alt="Javeria Hassan | AI Engineer and AI Educator" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Javeria Hassan 👋</h1>
