@@ -43,7 +43,7 @@ I enjoy working across the AI development lifecycle, from understanding a proble
 
 My work and interests include:
 
-- Building LLM-powered applications, RAG systems, and AI agents
+- Building LLM-powered applications, RAG systems, Voice Calling agents and AI Automation agents
 - Developing computer vision, OCR, and recommendation systems
 - Designing backend services, APIs, and intelligent automation workflows
 - Exploring human-centered and adaptive AI
@@ -55,8 +55,11 @@ I believe technology should do more than become increasingly intelligent. It sho
 
 ## Areas of Interest
 
-- Applied AI and Generative AI
-- LLM Applications and Agentic Systems
+- Applied AI, Generative AI, and Multi-Agent Systems
+- Voice AI and Conversational Agents
+- AI Calling Agents and Voice Automation
+- Agentic Workflow Automation and Tool-Using Agents
+- LLM Applications, RAG and Intelligent Automation
 - Human-Centered and Adaptive AI
 - Personalized Learning and Educational Technology
 - Cognitive Science and Human Behavior
@@ -76,6 +79,18 @@ I believe technology should do more than become increasingly intelligent. It sho
   <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" alt="YOLO" />
   <img src="https://img.shields.io/badge/OCR-6A5ACD?style=for-the-badge" alt="OCR" />
 </p>
+
+### Voice AI, Agents and Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Vapi-6C5CE7?style=for-the-badge" alt="Vapi" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-6B4EFF?style=for-the-badge" alt="CrewAI" />
+</p>
+
+Voice AI, Speech-to-Text, Text-to-Speech, Conversational AI, AI Calling Agents, Tool Calling, API Orchestration, Webhooks, Multi-Agent Workflows and Business Process Automation.
 
 ### LLMs and Agentic AI
 
