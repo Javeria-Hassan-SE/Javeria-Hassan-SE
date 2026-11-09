@@ -5,9 +5,9 @@
   Then the image below will appear at the top of your profile.
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/profile-banner.png" alt="Javeria Hassan | AI Engineer and AI Educator" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm Javeria Hassan 👋</h1>
 
