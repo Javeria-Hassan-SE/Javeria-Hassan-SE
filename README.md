@@ -1,25 +1,33 @@
 <!--
-  BANNER SETUP:
-  Upload your banner image to this repository as:
-  assets/profile-banner.png
-  Then the image below will appear at the top of your profile.
+ BANNER SETUP:
+ Upload your banner image to this repository as:
+ assets/profile-banner-1.png
 -->
 
- <p align="center">
-  <img src="assets/profile-banner-1.png" alt="Javeria Hassan | AI Engineer and AI Educator" width="100%" />
+<p align="center">
+  <img src="assets/profile-banner-1.png" alt="Javeria Hassan | Applied AI Engineer" width="100%" />
 </p>
 
 <h1 align="center">Salam, I'm Javeria Hassan 👋</h1>
 
-<h3 align="center">AI Engineer · AI Educator · Human-Centered AI Enthusiast</h3>
+<h3 align="center">Applied AI Engineer · AI Educator · Human-Centered AI Enthusiast</h3>
 
 <p align="center">
-  Building intelligent systems, exploring how humans learn, think, and adapt.
+  Building intelligent applications, exploring generative AI, and learning how technology can better support people.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javeria-hassan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Javeria-Hassan-SE">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.kaggle.com/javeria00">
+    <img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://medium.com/@codewithjaveria">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Stories-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://www.instagram.com/codewithjaveria/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -27,41 +35,43 @@
   <a href="https://www.youtube.com/@codewithjaveria">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:javeria.hassan77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://javeria-hassan.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Explore-7B61A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:javeria.hassan77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ## About Me
 
-I'm an AI Engineer with 4+ years of experience building AI-powered applications, intelligent automation systems, and full-stack software solutions.
+I'm an **Applied AI Engineer** with 4+ years of experience building AI-powered applications, LLM systems, intelligent automation solutions, and full-stack software.
 
-I enjoy working across the AI development lifecycle, from understanding a problem and designing the architecture to building, integrating, and deploying practical solutions.
+I enjoy working across the AI development lifecycle, from understanding a problem and designing its architecture to building, integrating, and deploying practical solutions.
 
-My work and interests include:
+My engineering work includes:
 
-- Building LLM-powered applications, RAG systems, Voice Calling agents and AI Automation agents
-- Developing computer vision, OCR, and recommendation systems
-- Designing backend services, APIs, and intelligent automation workflows
-- Exploring human-centered and adaptive AI
-- Teaching AI, data science, and software development
+- Building LLM-powered applications, RAG systems, AI agents, and multi-agent workflows.
+- Developing Voice AI applications, conversational agents, and AI calling systems.
+- Engineering computer vision, OCR, and recommendation solutions.
+- Designing backend services, APIs, and intelligent automation workflows.
+- Integrating AI models, external APIs, and automation platforms into practical applications.
 
-Beyond engineering, I'm curious about how people learn, think, make decisions, and build habits. I'm especially interested in the intersection of artificial intelligence, learning science, cognitive science, and human-computer interaction.
+I also have a background in technical education, including teaching AI, machine learning, data science, and software development, as well as developing curricula and project-based learning materials.
+
+Beyond engineering, I'm curious about how people learn, think, make decisions, and adapt. I'm particularly interested in the intersection of artificial intelligence, learning science, cognitive science, and human-computer interaction.
 
 I believe technology should do more than become increasingly intelligent. It should become more useful to the people it serves.
 
 ## Areas of Interest
 
 - Applied AI, Generative AI, and Multi-Agent Systems
+- LLM Applications, RAG, and Intelligent Automation
 - Voice AI and Conversational Agents
 - AI Calling Agents and Voice Automation
-- Agentic Workflow Automation and Tool-Using Agents
-- LLM Applications, RAG and Intelligent Automation
-- Human-Centered and Adaptive AI
-- Personalized Learning and Educational Technology
+- Agentic Workflows and Tool-Using Agents
+- Human-Centered AI and Adaptive Systems
+- AI for Learning and Personalized Learning Experiences
 - Cognitive Science and Human Behavior
 - Human-AI Interaction
 - Research, Experimentation, and Product Development
@@ -80,27 +90,27 @@ I believe technology should do more than become increasingly intelligent. It sho
   <img src="https://img.shields.io/badge/OCR-6A5ACD?style=for-the-badge" alt="OCR" />
 </p>
 
+### LLMs and Agentic AI
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-6B4EFF?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-5A5A5A?style=for-the-badge" alt="Model Context Protocol" />
+</p>
+
 ### Voice AI, Agents and Automation
 
 <p>
   <img src="https://img.shields.io/badge/Vapi-6C5CE7?style=for-the-badge" alt="Vapi" />
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/CrewAI-6B4EFF?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
 </p>
 
-Voice AI, Speech-to-Text, Text-to-Speech, Conversational AI, AI Calling Agents, Tool Calling, API Orchestration, Webhooks, Multi-Agent Workflows and Business Process Automation.
-
-### LLMs and Agentic AI
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/CrewAI-6B4EFF?style=for-the-badge" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="RAG" />
-</p>
+Voice AI, Speech-to-Text, Text-to-Speech, Conversational AI, AI Calling Agents, Tool Calling, API Orchestration, Webhooks, Multi-Agent Workflows, and Business Process Automation.
 
 ### Full-Stack Development
 
@@ -117,7 +127,6 @@ Voice AI, Speech-to-Text, Text-to-Speech, Conversational AI, AI Calling Agents, 
 ### Automation and AI-Assisted Development
 
 <p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
@@ -132,6 +141,21 @@ My teaching experience includes AI, machine learning, data science, Python, and 
 
 I see teaching as another way to explore ideas, strengthen my own understanding, and make technology more accessible.
 
+## Writing and Technical Exploration
+
+I enjoy documenting what I build, sharing technical insights, and exploring ideas across AI and software engineering.
+
+I'll be sharing project walkthroughs, engineering experiences, experiments, and lessons learned on Medium.
+
+<p>
+  <a href="https://medium.com/@codewithjaveria">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read my Medium articles" />
+  </a>
+  <a href="https://www.kaggle.com/javeria00">
+    <img src="https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Explore my Kaggle profile" />
+  </a>
+</p>
+
 ## Beyond Engineering
 
 I'm naturally curious and tend to explore ideas across different fields. Some things I enjoy outside my day-to-day engineering work:
@@ -145,7 +169,7 @@ I'm naturally curious and tend to explore ideas across different fields. Some th
 ## Currently Exploring
 
 - Building more reliable and useful LLM-powered systems.
-- Exploring adaptive AI and personalized learning experiences.
+- Exploring AI for Learning and personalized learning experiences.
 - Learning more about cognitive science and human-AI interaction.
 - Experimenting with AI-assisted software engineering workflows.
 
@@ -155,6 +179,9 @@ I'm always happy to connect with people who enjoy building, learning, researchin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javeria-hassan/">LinkedIn</a> ·
+  <a href="https://github.com/Javeria-Hassan-SE">GitHub</a> ·
+  <a href="https://www.kaggle.com/javeria00">Kaggle</a> ·
+  <a href="https://medium.com/@codewithjaveria">Medium</a> ·
   <a href="https://www.instagram.com/codewithjaveria/">Instagram</a> ·
   <a href="https://www.youtube.com/@codewithjaveria">YouTube</a> ·
   <a href="https://javeria-hassan.vercel.app">Portfolio</a> ·
